@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👨‍💻
 
 <p align="center" height="240">
   <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=sseaky&show_icons=true" alt="Asura's github stats" />
