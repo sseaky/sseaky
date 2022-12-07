@@ -3,7 +3,7 @@
 
 <p align="center" height="240">
   <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=sseaky&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseaky&hide=Jupyter%20Notebook&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseaky&hide=Jupyter%20Notebook&count_private=true&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 
